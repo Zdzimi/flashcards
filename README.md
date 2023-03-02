@@ -3,7 +3,7 @@
 
 This is a desktop application for flashcard learning written in Java version 11 and using the MySql database. The application allows you to create your own sets of flashcards using the interface or a CSV file. To use the application, you need JRE and MySql.
 
-  Getting started:
+## Getting started:
 
 1. Run the following command in your cmd:
 
